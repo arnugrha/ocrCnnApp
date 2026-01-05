@@ -1,7 +1,7 @@
 ### 🖼️ OCR Web Application (CNN + PyTesseract)
 
-Aplikasi web **OCR (Optical Character Recognition)** yang menggabungkan algoritma  
-**CNN (Convolutional Neural Network)** dan **PyTesseract** untuk mendeteksi serta mengekstrak teks dari sebuah gambar.
+Aplikasi web OCR (Optical Character Recognition) yang menggabungkan algoritma  
+CNN (Convolutional Neural Network) dan PyTesseract untuk mendeteksi serta mengekstrak teks dari sebuah gambar.
 
 Pengguna dapat mengunggah gambar yang mengandung teks, kemudian sistem akan memproses dan menampilkan hasil teks yang dapat **disalin secara langsung**.
 
@@ -52,7 +52,6 @@ PyTesseract membutuhkan **Tesseract OCR Engine** yang terinstal di sistem.
 
 #### 🪟 Windows
 1. Download installer:
-```
 
 [https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki)
 
