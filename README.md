@@ -1,12 +1,10 @@
-```md
-# 🖼️ OCR Web Application (CNN + PyTesseract)
+### 🖼️ OCR Web Application (CNN + PyTesseract)
 
 Aplikasi web **OCR (Optical Character Recognition)** yang menggabungkan algoritma  
 **CNN (Convolutional Neural Network)** dan **PyTesseract** untuk mendeteksi serta mengekstrak teks dari sebuah gambar.
 
 Pengguna dapat mengunggah gambar yang mengandung teks, kemudian sistem akan memproses dan menampilkan hasil teks yang dapat **disalin secara langsung**.
 
----
 
 ## 📋 Fitur Utama
 
@@ -218,7 +216,3 @@ Jika mengalami masalah:
 
 **Arie Nugraha**
 Mahasiswa S1 Informatika
-
-```
-
----
